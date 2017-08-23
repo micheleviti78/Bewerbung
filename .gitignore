@@ -16,3 +16,11 @@ Lebenslauf.pdf
 *.gz
 Anschreiben_Lehrer.pdf
 AnschreibenLeher.pdf
+*.aux
+*.log
+*.out
+.project
+.texlipse
+LebenslaufStandard/LebenslaufEN.pdf
+LebenslaufStandard/cv.pdf
+.gitignore.swp
